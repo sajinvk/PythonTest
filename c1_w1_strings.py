@@ -1,0 +1,20 @@
+# coding: utf-8
+v_str = "Micheal jackson"
+print (3*v_Str)
+print (3*v_str)
+print(v_str+ " is the best")
+len(v_Str)
+len(v_str)
+print (v_str + "\n is the best")
+print (v_str + "\n is the \\ \\ best")
+print (v_str + "\n is the \ \ best")
+print (v_str + r"\n is the \ \ best")
+A= " I would love to work as a data scientist"
+B=A.upper()
+print(B)
+B=A.replace(scientist , analyst =)
+B=A.replace(scientist , analyst )
+B=A.replace("scientist" , "analyst" )
+print (B)
+A.find("work")
+A.find("workk")
